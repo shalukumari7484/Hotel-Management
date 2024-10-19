@@ -1,6 +1,6 @@
-<h1 align="center">Hotel Booking Web App</h1>
+<h1 align="center">Hotel Booking App</h1>
   <p align="center">
-    A hotel room booking web app with MERN Stack.    <br />
+    A hotel room booking app with MERN Stack.    <br />
     <a href="https://hotel-booking-web-app.vercel.app/">Live Site</a>
     .
     <a href="https://github.com/DebjitPramanick/Hotel-Booking-Web-App/issues">Report Bug</a>
